@@ -9,17 +9,7 @@ K-Fold cross-validation for robust evaluation.
 Grad-CAM for visualizing model decisions.
 Test set evaluation with data leakage prevention.
 
-# Dataset
-Images of wolves and huskies in:
-data/
-├── train/
-│   ├── wolf/
-│   ├── husky/
-├── test/
-│   ├── wolf/
-│   ├── husky/
-
-Update paths in WolfVsHusky.ipynb to your dataset.
+ 
 
 # Requirements
 
